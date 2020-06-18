@@ -12,8 +12,7 @@
 ```
 
 
-[postman documentation](https://documenter.getpostman.com/view/6901755/Szzkdxty
-)
+
 
 # Installation Guide
 
