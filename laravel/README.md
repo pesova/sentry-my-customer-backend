@@ -7,14 +7,14 @@
 </div>
 
 #### AUTHENTIATION ROUTES
-- [x] api/register/user - to register a new user 
+
+```bash
 - [x] api/login - to login an existing user
-- [x] api/user - to get authenicated users details
-- [x] api/logout - destroy's token
+```
 
 
-[postman documentation](https://documenter.getpostman.com/view/6901755/Szzkdxty
-)
+
+
 
 # Installation Guide
 
