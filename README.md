@@ -26,5 +26,5 @@
 - run `composer install`
 - run `php artisan migrate` to migrate database schema
 - run `php artisan passport:install`
-- finally start your local serve using `php artisan serve` 
+- Then start your local serve using `php artisan serve` 
 
